@@ -1,0 +1,1 @@
+# get-student-detail-and-print-detail
